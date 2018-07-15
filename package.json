@@ -1,0 +1,18 @@
+{
+  "name": "PENTWB17",
+  "version": "1.0.0",
+  "description": "PENTWB17",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha test/appTest.js"
+  },
+  "keywords": [
+    "PENTWB17"
+  ],
+  "author": "luis.ponce@softtek.com",
+  "license": "NO LICENSE",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
